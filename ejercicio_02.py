@@ -1,0 +1,1 @@
+print("este es el jercicio 2")
